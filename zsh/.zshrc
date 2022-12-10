@@ -12,6 +12,7 @@ antigen bundle git
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle agkozak/zsh-z
 antigen bundle zsh-users/zsh-autosuggestions
+antigen bundle asdf-vm/asdf
 
 ## apply antigen
 antigen apply
